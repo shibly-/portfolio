@@ -5,24 +5,9 @@ const interests = [
       'Contributing to community projects and sharing knowledge through code and documentation.',
   },
   {
-    title: 'UI/UX Design',
-    description:
-      'Exploring typography, layout, and interaction design to build interfaces people enjoy using.',
-  },
-  {
     title: 'Learning',
     description:
       'Staying current with web standards, new frameworks, and computer science fundamentals.',
-  },
-  {
-    title: 'Photography',
-    description:
-      'Capturing landscapes and street scenes — a creative outlet away from the screen.',
-  },
-  {
-    title: 'Fitness & Outdoors',
-    description:
-      'Hiking, running, and staying active to balance long hours of focused development work.',
   },
   {
     title: 'Reading',

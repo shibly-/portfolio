@@ -1,21 +1,4 @@
-const skillCategories = [
-  {
-    title: 'Languages',
-    skills: ['JavaScript', 'TypeScript', 'Python', 'HTML', 'CSS'],
-  },
-  {
-    title: 'Frontend',
-    skills: ['React', 'Vite', 'Tailwind CSS', 'Responsive Design'],
-  },
-  {
-    title: 'Backend',
-    skills: ['Node.js', 'Express', 'REST APIs', 'PostgreSQL'],
-  },
-  {
-    title: 'Tools & Practices',
-    skills: ['Git', 'Docker', 'CI/CD', 'Agile', 'Testing'],
-  },
-]
+import { skillCategories } from '../data/skillCategories'
 
 export default function Skills() {
   return (

@@ -1,0 +1,36 @@
+export const skillCategoriesMajor = [
+  {
+    title: 'Major Tech Stack',
+    skills: [
+      'JavaScript',
+      'TypeScript',
+      'Angular',
+      'RxJs',
+      'Highcharts',
+      'AG-Grid',
+      'jQuery',
+      'HTML5',
+      'Bootstrap',
+      'NodeJS',
+      'Next.js',
+      'C#',
+      '.NET Core',
+      'ASP.NET Web API',
+      'Swagger',
+      'Keycloak',
+      'Redis',
+      'PHP',
+      'MongoDB', 'MySQL', 'PostgreSQL', 'SQL Server',
+      'Microsoft Azure',
+      'JEST',
+      'Git', 'GitLab', 'Azure DevOps',
+      'Power BI',
+      'Visual Studio', 'Visual Studio Code',
+      'Microservices',
+      'Agile',
+      'MVC',
+      'Cursor IDE',
+      'Claude Code'
+    ],
+  }
+]

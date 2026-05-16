@@ -1,22 +1,25 @@
 const education = [
   {
-    degree: 'B.S. Computer Science',
-    school: 'University of Example',
-    period: '2017 — 2021',
+    degree: 'Bachelor of Science (with Honors) in Computer Science & Engineering',
+    school: 'University of Dhaka',
+    period: '(First Class), 2007',
     details:
       'Focus on software engineering, algorithms, and databases. Graduated with honors.',
   },
   {
     degree: 'Relevant Coursework',
-    school: 'Core CS Curriculum',
+    school: 'Few Core CSE Curriculum',
     period: '',
     details: null,
     courses: [
       'Data Structures & Algorithms',
-      'Web Development',
-      'Database Systems',
+      'Discrete Mathematics',
+      'Object Oriented Programming',
       'Software Engineering',
-      'Machine Learning (elective)',
+      'Database Management System',
+      'Programming Language Concepts',
+      'Artificial Intelligence',
+      'Information System Design & Analysis'
     ],
   },
 ]

@@ -1,0 +1,27 @@
+Back End: JavaScript, TypeScript, NodeJS, Next.js,  Express.js, Drizzle, C#, .NET Core, .NET MVC, ASP.NET Web API, EF Core, NuGet, ASP.NET Core Identity, Keycloak, Redis, PHP, Drupal
+
+Front End: JavaScript, Typescript, Angular, Material, Angular Material, RxJs, HTML5, CSS3, Sass, Bootstrap, Highcharts, AG-Grid, jQuery, RESTful API, JSON
+
+Data, Database & Storage: MongoDB, MySQL, PostgreSQL, SQL Server
+
+Cloud Technologies: Microsoft Azure
+
+Design Pattern & Architecture: OOP, SOLID, Singleton, Factory, Observer, Dependency Injection, Module, Decorator, Middleware 
+
+Testing: JEST, Mocha, NUnit
+
+DevOps: Gitlab, CI/CD, Docker, Azure DevOps CI/CD
+
+Version Control System: GitLab, Git, Azure DevOps, TFS, and SVN
+
+Project Management: Agile/Scrum, Azure DevOps, JIRA, Confluence
+
+Web Services & Middleware Tools: Swagger, Web Services REST, ASP.NET MVC, WEB API
+
+Paradigms: Distributed Systems (Application & DBMS scaling, Microservices), Agile – Scrum, MVC (Model View Controller)
+
+IDE: Visual Studio, Visual Studio Code
+
+Process: Agile & Scrum Methodology, Full SDLC or Waterfall Model
+
+Process: Power BI

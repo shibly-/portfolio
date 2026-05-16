@@ -5,6 +5,7 @@ const navItems = [
   { to: '/', label: 'Home', end: true },
   { to: '/skills', label: 'Technical Skills' },
   { to: '/experience', label: 'Experience' },
+  { to: '/certification', label: 'Certifications' },
   { to: '/education', label: 'Education' },
   { to: '/interest', label: 'Interest' },
   { to: '/contact', label: 'Contact' },
@@ -36,7 +37,7 @@ export default function Layout() {
         <Outlet />
       </main>
       <footer className="site-footer">
-        <p>© {new Date().getFullYear()} Your Name. Built with React & Vite.</p>
+        <p>© {new Date().getFullYear()} <a href="https://www.linkedin.com/in/shibly/">A S M Abdur Rab</a>. Built with React & Vite.</p>
       </footer>
     </>
   )
