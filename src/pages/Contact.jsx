@@ -11,11 +11,11 @@ export default function Contact() {
   return (
     <section className="page">
       <h1 className="page-title">Contact</h1>
-      <div className="card-grid" style={{ marginBottom: '2.5rem' }}>
+      <div className="card-grid section-spaced">
         <article className="card">
           <h3>Email</h3>
           <p>
-            <a href="mailto:you@example.com" style={{ color: 'var(--accent)' }}>
+            <a href="mailto:shibly.dhk@gmail.com" className="link-accent">
               shibly.dhk@gmail.com
             </a>
           </p>
@@ -27,7 +27,7 @@ export default function Contact() {
               href="https://github.com/shibly-"
               target="_blank"
               rel="noopener noreferrer"
-              style={{ color: 'var(--accent)' }}
+              className="link-accent"
             >
               GitHub
             </a>
@@ -36,7 +36,7 @@ export default function Contact() {
               href="https://www.linkedin.com/in/shibly/"
               target="_blank"
               rel="noopener noreferrer"
-              style={{ color: 'var(--accent)' }}
+              className="link-accent"
             >
               LinkedIn
             </a>

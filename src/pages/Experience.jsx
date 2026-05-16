@@ -33,7 +33,7 @@ const jobs = [
       'Main responsibilities include requirement analysis, application development and regular communication with onshore team along with the stakeholders.',
     highlights: [
       'Project specific requirement analysis, communication with team lead and project manager.',
-      'Development scope analysis, identify and suggest necessary development tools &amp; environments, task break down and time estimation with team members.',
+      'Development scope analysis, identify and suggest necessary development tools; environments, task break down and time estimation with team members.',
       'Define application architectures, database structures and user interface layout.',
       'Participate on essential RnD tasks to integrate new technologies as per requirement.',
       'Web application development using Angular, MongoDB, NodeJS, .NET Core, Web API, Highchart, Aggrid, etc.',

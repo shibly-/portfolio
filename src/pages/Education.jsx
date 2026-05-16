@@ -31,7 +31,7 @@ export default function Education() {
       <p className="page-subtitle">
         Academic foundation that supports my work in software development.
       </p>
-      <div className="card-grid" style={{ gridTemplateColumns: '1fr' }}>
+      <div className="card-grid card-grid--single">
         {education.map((item) => (
           <article key={item.degree} className="card">
             <h3>{item.degree}</h3>

@@ -23,7 +23,7 @@ export default function Certification() {
       <p className="page-subtitle">
         Notable in-house trainings & online courses (order by most recent):
       </p>
-      <div className="card-grid" style={{ gridTemplateColumns: '1fr' }}>
+      <div className="card-grid card-grid--single">
         {certification.map((item) => (
           <article key={item.degree} className="card">
             <h3>{item.degree}</h3>
