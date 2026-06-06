@@ -29,7 +29,7 @@ export default function Home() {
         <div className="home-profile">
           <div className='home-profile-placeholder'>
             <img
-              src="https://media.licdn.com/dms/image/v2/D5603AQGFqbFU31_kJA/profile-displayphoto-crop_800_800/B56ZtMSirvJ8AI-/0/1766511488827?e=1780531200&v=beta&t=QoYUNutL1iJ1QnZDHV1b0kRtRtIN5ULh3W5GowaG3EE"
+              src="https://raw.githubusercontent.com/shibly-/portfolio/fd3a581144de01d75567cf45685df7b3752e0df6/profile_picture_of_a_s_m_abdur_rab.jpg"
               alt="A S M Abdur Rab"
               className="home-profile-photo"
             />
