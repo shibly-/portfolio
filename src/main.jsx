@@ -10,7 +10,7 @@ initTheme()
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/app01">
       <App />
     </BrowserRouter>
   </StrictMode>,
